@@ -13,7 +13,7 @@ This Python application calculates the chain length, scope compared to water dep
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9
 - ESP32 development board
 - Hall effect sensors
 - Optocoupler sensors
